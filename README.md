@@ -5,7 +5,7 @@ A minimal HTTP server implemented with raw TCP sockets in Python. This project d
 ---
 
 ## Repository Structure
-
+ 
 ```
 TCP-HTTP-Web-Server-Socket-Programming/
 ├── html_files/                     # Static assets served by the server
